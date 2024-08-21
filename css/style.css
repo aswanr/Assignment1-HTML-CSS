@@ -3,9 +3,9 @@
   padding: 0;
 }
 
-h1 {
+.div {
   color: rgb(255, 0, 34);
-  font-size: 50px;
+  font-size: 30px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   text-align: center;
 }
@@ -22,7 +22,6 @@ body {
   overflow: hidden;
 }
 
-
 .topnav a {
   float: left;
   color: #f2f2f2;
@@ -31,7 +30,6 @@ body {
   text-decoration: none;
   font-size: 17px;
 }
-
 
 .topnav a:hover {
   background-color: #ddd;
@@ -44,19 +42,15 @@ body {
   color: white;
 }
 
-p {
+.Paragarph {
+  font-size: 15px;
   text-align: center;
-  color: #101010;
+  color: hsl(0, 0%, 6%);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   white-space: nowrap;
-}
-
-h2 {
-  text-align: center;
-  text-decoration: solid;
 }
 
 p:hover {
