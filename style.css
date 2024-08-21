@@ -56,6 +56,9 @@ body{
     text-align: center;
     text-decoration: solid;
   }
+  p:hover{
+    background-color: skyblue;
+  }
  video{
     border: 50rem;
     margin-left: 39%;
