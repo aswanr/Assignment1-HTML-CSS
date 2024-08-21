@@ -1,7 +1,6 @@
 * {
   margin: 0;
   padding: 0;
-
 }
 
 h1 {
@@ -12,8 +11,6 @@ h1 {
 }
 
 body {
-  min-height: 100vh;
-
   width: 100%;
   background-image: url(kolby-milton-MuDJtqijUdQ-unsplash.jpg);
   background-size: cover;
@@ -22,7 +19,6 @@ body {
 }
 
 .topnav {
-
   overflow: hidden;
 }
 
@@ -70,6 +66,4 @@ p:hover {
 video {
   border: 50rem;
   margin-left: 39%;
-
-
 }
